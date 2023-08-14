@@ -1,0 +1,32 @@
+
+
+
+   dashboard--Angular project workflow
+   -------------------------------------------
+   1.create a project ...ng new admin-dashboard 
+   2. to run project ---ng s 
+   3.install third party libraries
+
+   ----------angular material
+   -----------choose a prebuilt theme
+   -----------typography
+   ----------- set up broweser animations
+   4. to use any component from angular material 
+
+   --- copy  the api from particular component and paste it on app module .ts
+   5.generate components  ng g c component-name
+    -header
+    -footer
+    -sidebar
+    -dashboard
+
+   to fix home page on display syntax{ path :'',redirectTo:'fix aaknda page',pathMatch:'full'}
+   angular il href nu pakaram routerlink aanu use cheyunath
+
+
+    TO create CARD-- CARD
+    ------------- area-chart 
+    --------------table
+    --------------pie-chart
+
+   
